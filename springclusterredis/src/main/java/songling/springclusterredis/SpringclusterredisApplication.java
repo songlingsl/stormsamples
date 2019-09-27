@@ -33,7 +33,7 @@ public class SpringclusterredisApplication {
 
     }
     public void pubsub() throws Exception {//测试发布订阅
-
+        //7
 
 
     }
