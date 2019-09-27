@@ -28,13 +28,15 @@ public class SpringclusterredisApplication {
 
 
         stringRedisTemplate.opsForValue().set("song","dasd大是大非");
-        System.out.println("有没有12"+ stringRedisTemplate.opsForValue().get("song"));
+        System.out.println("有没有14"+ stringRedisTemplate.opsForValue().get("song"));
 
 
     }
     public void pubsub() throws Exception {//测试发布订阅
         //9
-        
+
+
+        //14
 
 
     }
