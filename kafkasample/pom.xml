@@ -23,7 +23,7 @@
         <dependency>
             <groupId>org.apache.storm</groupId>
             <artifactId>storm-core</artifactId>
-            <version>1.1.0</version>
+            <version>1.1.3</version>
             <!--
               Use "provided" scope to keep storm out of the jar-with-dependencies
               For IntelliJ dev, intellij will load properly.
