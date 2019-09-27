@@ -10,6 +10,7 @@ import java.util.List;
 public class ClusterConfigurationProperties {
 
     /*
+
      * spring.redis.cluster.nodes[0] = 127.0.0.1:7379
      * spring.redis.cluster.nodes[1] = 127.0.0.1:7380
      * ...
