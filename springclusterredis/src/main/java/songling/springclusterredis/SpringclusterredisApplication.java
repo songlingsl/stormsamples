@@ -28,7 +28,7 @@ public class SpringclusterredisApplication {
 
 
         stringRedisTemplate.opsForValue().set("song","dasd大是大非");
-        System.out.println("有没有1"+ stringRedisTemplate.opsForValue().get("song"));
+        System.out.println("有没有4"+ stringRedisTemplate.opsForValue().get("song"));
 
 
     }
