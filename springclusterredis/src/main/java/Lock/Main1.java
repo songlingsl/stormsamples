@@ -43,7 +43,7 @@ public class Main1{
             System.out.println( "不断加一");
             Thread.sleep(5l);
         }
-        System.out.println( "不断加一结果 "+jedisCluster.get("mykey"));
+        System.out.println( "不断加一结的果 "+jedisCluster.get("mykey"));
 
 
 //        System.out.println( "获取锁"+lock());
